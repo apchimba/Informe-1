@@ -19,9 +19,9 @@
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-### ---------- EJERCICIOS CAPITULO 1 ----------
+### ========== EJERCICIOS CAPITULO 1 ==========
 
-#### Seccion 1-2 Notacion Cientifica
+#### ---------- Seccion 1-2 Notacion Cientifica ----------
 
 ### 2) Exprese cada uno de los números siguientes en notación científica: 
 
@@ -58,6 +58,8 @@
  * a) (1.0x10<sup>3</sup>) ÷ (2.5x10<sup>2</sup>) = 0.4x10<sup>3-2 </sup> = 0.4x10<sup>1
  * b) (2.5x10<sup>-6</sup>) ÷ (5.0x10<sup>-8</sup>) = 0.5x10<sup>-6-(-8) </sup> = 0.5x10<sup>2
  * c) (4.2x10<sup>8</sup>) ÷ (2x10<sup>-5</sup>) = 2.1x10<sup>8-(-5) </sup> = 2.1x10<sup>13
+ 
+#### ---------- Seccion 1-3 Notacion de Ingenieria y Prefijos Metricos ----------
  
 ### 14) Exprese cada número en notación de ingeniería:
  
@@ -101,6 +103,8 @@
  * b) 43mV = 43x10<sup>-3</sup>V
  * c) 275kΩ = 275x10<sup>3</sup>Ω
  * d) 10MW*= 10x10<sup>6</sup>W
+
+#### ---------- Seccion 1-4 Conversiones de Unidades Metricas ----------
  
 ### 28) Determine lo siguiente:
  
@@ -126,15 +130,15 @@
  
  = 10000 ÷ (2200+10000) = 0.82Ω
  
-  ***=======================EJERCICIOS CAPITULO 2========================================***
+## ========== EJERCICIOS CAPITULO 2 ==========
 
- **2)¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?**
+### 2) ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
  
  Q=número de electrones/6.25x10<sup>18</sup> 
  
  Q=(17/6.25x10<sup>18</sup>)=2.72x10<sup>-18
  
- **4)¿Cuántos electrones se requieren para producir 80μC (microcoulombs) de carga?**
+### 4) ¿Cuántos electrones se requieren para producir 80μC (microcoulombs) de carga?
  
  Q=número de electrones/6.25x10<sup>18</sup>                        **80μC=80x10<sup>-6</sup>**
  
