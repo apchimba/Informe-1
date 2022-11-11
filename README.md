@@ -15,3 +15,4 @@
 
 ### 2. MARCO TEÓRICO
 
+![notacion-cientifica](https://user-images.githubusercontent.com/116811469/201257182-7a0e0a82-2c36-48a8-90b3-c68abb0c3b1a.png)
