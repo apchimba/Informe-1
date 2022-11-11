@@ -15,7 +15,7 @@
 
 ## 2. MARCO TEÓRICO
 
-![notacion-cientifica](https://user-images.githubusercontent.com/116811469/201257182-7a0e0a82-2c36-48a8-90b3-c68abb0c3b1a.png)<br />
+![notacion-cientifica](https://user-images.githubusercontent.com/116811469/201257182-7a0e0a82-2c36-48a8-90b3-c68abb0c3b1a.png)
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -130,7 +130,9 @@
  
  = 10000 ÷ (2200+10000) = 0.82Ω
  
-## ========== EJERCICIOS CAPITULO 2 ==========
+### ========== EJERCICIOS CAPITULO 2 ==========
+ 
+#### ---------- Seccion 2-2 Carga Electrica ---------
 
 ### 2) ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
  
@@ -145,6 +147,8 @@
   6.25x10<sup>18</sup> x Q = número de electrones
  
   6.25x10<sup>18</sup>x 80x10<sup>-6</sup> = 5x10<sup>14
+ 
+#### ---------- Seccion 2-3 Voltaje, Corriente y Resistencia ----------
  
 ### 6) Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
  
@@ -186,6 +190,8 @@
  * b) 0.5S: R = 1/0.5 = 2Ω
  * c) 0.02: R = 1/0.02 = 50Ω
  
+#### ---------- Seccion 2-4 Fuentes de Voltaje y de Corriente ----------
+ 
 ### 18) ¿En qué principio se basan los generadores eléctricos?
  
  El principio de funcionamiento de los generadores se basa en el fenómeno de inducción electromagnética. La Ley de Faraday
@@ -197,6 +203,8 @@
  I = V/R = 100/500 = 0.2A
  
  0.2A = 200mA
+ 
+#### ---------- Seccion 2-5 Resistores ----------
  
 ### 22) Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21
  
@@ -258,6 +266,8 @@
  * b) 5602M = 5602M
  * c) 1501F*= 1501 ± 1%
  
+#### ---------- Seccion 2-6 El Circuito Electrico ----------
+ 
 ### 32) Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva
  
  ![](https://github.com/smvaca2/Informe-1/blob/4218c3326d80630b3a9388f131492d0a152276db/ej6.PNG)
@@ -272,6 +282,8 @@
 ### 36) Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador 
  
  ![](https://github.com/smvaca2/Informe-1/blob/d9df32aefe02e1d35811c3e621719f08418c2112/ej3.PNG)
+ 
+#### ---------- Seccion 2-7 Medicion de Circuito Basico ----------
  
 ### 38) Explique cómo mediría la resistencia de R2 en la figura 2-72
  
