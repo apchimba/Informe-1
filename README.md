@@ -134,198 +134,191 @@
 
 ### 2) ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
  
- Q=número de electrones/6.25x10<sup>18</sup> 
+  Q = número de electrones / 6.25x10<sup>18</sup> 
  
- Q=(17/6.25x10<sup>18</sup>)=2.72x10<sup>-18
+  Q = (17/6.25x10<sup>18</sup>) = 2.72x10<sup>-18
  
 ### 4) ¿Cuántos electrones se requieren para producir 80μC (microcoulombs) de carga?
  
- Q=número de electrones/6.25x10<sup>18</sup>                        **80μC=80x10<sup>-6</sup>**
+  Q = número de electrones / 6.25x10<sup>18</sup>                        **80μC=80x10<sup>-6</sup>**
  
- 6.25x10<sup>18</sup> x Q = número de electrones
+  6.25x10<sup>18</sup> x Q = número de electrones
  
- 6.25x10<sup>18</sup>x 80x10<sup>-6</sup> = 5x10<sup>14
+  6.25x10<sup>18</sup>x 80x10<sup>-6</sup> = 5x10<sup>14
  
- **6)Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje
-a través del resistor?**
+### 6) Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
  
- v=W/Q
+  v = W/Q
  
- v=500J/100C= *5V*
+  v = 500J/100C = 5V
  
- **8)¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?**
+### 8) ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?
  
- W= vQ
+  W = vQ
  
- W= 12 x 2.5 = 30J
+  W = 12 x 2.5 = 30J
  
- **10)Determine la corriente en cada uno de los siguientes casos:**
+### 10) Determine la corriente en cada uno de los siguientes casos:
  
- Formula de la corriente: I=Q/t
+ Formula de la corriente: I = Q/t
  
- *a)75C en 1s*= 75/1= 75A
+  * a) 75C en 1s = 75/1 = 75A
+  * b) 10C en 0.5s = 10/0.5 = 20A
+  * c) 5C en 2s = 5/2 = 2.5A
  
- *b)10C en 0.5s*= 10/0.5= 20A
+### 12) ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
  
- *c)5C en 2s*= 5/2= 2.5A
+ I = Q/t = 10C/5A = 2s
  
- **12) ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?**
+### 14) 5.74x10<sup>17</sup> electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
  
- I=Q/t= 10C/5A= *2s*
+  Q = número de electrones/6.25x10<sup>18</sup>
  
- **14)5.74x10<sup>17</sup> electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?**
+  Q = 5.74x10<sup>17</sup>/6.25x10<sup>18</sup>=0.092
  
-  Q=número de electrones/6.25x10<sup>18</sup>
+  I = 0.092/250 = 3.68x10<sup>-4
  
-  Q=5.74x10<sup>17</sup>/6.25x10<sup>18</sup>=0.092
+### 16) Encuentre la resistencia correspondiente a las siguientes conductancias:
  
- I=0.092/250= 3.68x10<sup>-4
+ Formula de la conductancia G = 1/R
  
- **16) Encuentre la resistencia correspondiente a las siguientes conductancias:**
+ * a) 0.1S: R = 1/0.1 = 10Ω
+ * b) 0.5S: R = 1/0.5 = 2Ω
+ * c) 0.02: R = 1/0.02 = 50Ω
  
- Formula de la conductancia G=1/R
- 
- *a)0.1S*: R=1/0.1=10Ω
- 
- *b)0.5S*: R=1/0.5=2Ω
- 
- *c)0.02*: R=1/0.02=50Ω
- 
- **18)¿En qué principio se basan los generadores eléctricos?**
+### 18) ¿En qué principio se basan los generadores eléctricos?
  
  El principio de funcionamiento de los generadores se basa en el fenómeno de inducción electromagnética. La Ley de Faraday
  
- **20)Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500, ¿cuál es la corriente en la carga?**
+### 20) Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500, ¿cuál es la corriente en la carga?
  
- V=I*R= 100mA*1kΩ=100V
+ V = I*R = 100mA*1kΩ = 100V
  
- I=V/R=100/500=0.2A
+ I = V/R = 100/500 = 0.2A
  
- 0.2A=200mA
+ 0.2A = 200mA
  
- **22)Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21**
+### 22) Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21
  
- *a)rojo, violeta, naranja, oro*
+ * a) rojo, violeta, naranja, oro
  
- R=27000=27kΩ
+ R = 27000 = 27kΩ
  
  Tolerancia ±5%
  
- *Valor Max*=50+27kΩ=27050Ω
+ *Valor Max = 50+27kΩ = 27050Ω
  
- *Valor Min*=27kΩ-50=26950Ω
+ *Valor Min = 27kΩ-50 = 26950Ω
  
- *b)café, gris, rojo, plata*
+ * b) café, gris, rojo, plata
  
- R=1800Ω= 1.8kΩ
+ R = 1800Ω = 1.8kΩ
  
  Tolerancia ±10%
  
- *Valor Max*=1.8kΩ+100=1900Ω
+ *Valor Max = 1.8kΩ+100 = 1900Ω
  
- *Valor Min*=1.8kΩ-100=1700Ω
+ *Valor Min = 1.8kΩ-100 = 1700Ω
  
- **24)Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:**
+### 24) Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
  
- *a)café, negro, negro, oro*
+ * a) café, negro, negro, oro
  
- R=10Ω ± 5%
+ R = 10Ω ± 5%
  
- *b)verde, café, verde, plata*
+ * b) verde, café, verde, plata
 
- R=5100000Ω ± 10%
+ R = 5100000Ω ± 10%
  
- *c)azul, gris, negro, oro*
+ * c) azul, gris, negro, oro
  
- R=68Ω ± 5%
+ R = 68Ω ± 5%
  
- **26)Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:**
+### 26) Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
  
- *a)rojo, gris, violeta, rojo, café*
+ * a) rojo, gris, violeta, rojo, café
  
- R= 28700 ± 1%
+ R = 28700 ± 1%
  
- *b)azul, negro, amarillo, oro, café*
+ * b) azul, negro, amarillo, oro, café
  
- R=604x0.1= 60.4 ± 1% 
+ R = 604x0.1 = 60.4 ± 1% 
  
- *c)blanco, naranja, café, café, café*
+ * c) blanco, naranja, café, café, café
  
- R= 9410 ± 1%
+ R = 9410 ± 1%
  
- **28)El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 Ω, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?**
+### 28) El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 Ω, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
  
- *Respuesta*= 931x1 ± 1%
+ * Respuesta = 931x1 ± 1%
  
- **30) Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:**
+### 30) Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
  
- *a)4R7J*= 4.7 ± 5%
+ * a) 4R7J = 4.7 ± 5%
+ * b) 5602M = 5602M
+ * c) 1501F*= 1501 ± 1%
  
- *b)5602M*= 5602M
- 
- *c)1501F*= 1501 ± 1%
- 
- **32)Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva**
+### 32) Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva
  
  ![](https://github.com/smvaca2/Informe-1/blob/4218c3326d80630b3a9388f131492d0a152276db/ej6.PNG)
  
- **34)¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?**
+### 34) ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
  
  ![](https://github.com/smvaca2/Informe-1/blob/b2a97979858931ccf666df0ff7a266516f27aadf/ej1.PNG)
  
- *Respuesta*= A través de R<sub>5
+ * Respuesta = A través de R<sub>5
  
  
- **36) Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador** 
+### 36) Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador 
  
  ![](https://github.com/smvaca2/Informe-1/blob/d9df32aefe02e1d35811c3e621719f08418c2112/ej3.PNG)
  
- **38)Explique cómo mediría la resistencia de R2 en la figura 2-72**
+### 38) Explique cómo mediría la resistencia de R2 en la figura 2-72
  
  ![](https://github.com/smvaca2/Informe-1/blob/57d7dc733c9e7e11b12f80881a74310c9a1bcede/ej2.PNG)
  
  Uniendo las 2 resistencias dado que están en serie y utilizando la formula para calcular una resistencia en serie
  
- **40)En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor**
+### 40) En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor
  
  ![](https://github.com/smvaca2/Informe-1/blob/4218c3326d80630b3a9388f131492d0a152276db/ej5.PNG)
  
  Conectando el cable rojo del amperímetro a V<sub>S</sub> y conectando el cable negro a VI
  
- **42)Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.**
+### 42) Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.
  
  Se debe colocar en paralelo para medir cada resistor
  
- **44)¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?**
+### 44) ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
  
  ![](https://github.com/smvaca2/Informe-1/blob/74de6b66786b62d4691af2d849d50c929e04d930/ej4.PNG)
  
- *Respuesta* 10kΩ
+ * Respuesta 10kΩ
  
+### 46) ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
  
- **46)¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?**
+ * Respuesta = el multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución
  
- *Respuesta*= el multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución
- 
-***4. VIDEO***
+## 4. VIDEO
   
  
- ***5. CONCLUSIONES***
+## 5. CONCLUSIONES
  
 En el trabajo de este informe para la tarea 1 se comprendió de una manera práctica el uso de la notación científica y notación de ingeniería para realizar problemas o para usarlos al momento de utilizar los prefijos métricos para el desarrollo de conversiones de unidades métricas. 
 Además se repasó los conceptos como los de la estructura atómica, los electrónes y cómo con estos podemos calcular las cargas. También se resolvió calculos con el voltaje, corriente y las resistencias. En este último punto se aprendió de igual manera a reconocer el valor de las resistenicas y los tipos de resistencias y de circuitos electrónicos que existen. 
  En este informe se identificó los dispositivos de protección electrónica y sus usos, el funcionamiento de interruptores, cortacircuitos y fusibles. 
  Con los resultados de este informe se pueden sentar buenas bases para continuar con la materia de fundamentos de circuitos eléctricos, puesto que se han analizado y estudiado las bases de esta materia en esta tarea. 
  
- ***6. BIBLIOGRAFÍA***
- *_Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson.*
+## 6. BIBLIOGRAFÍA
  
- *_Conversión de unidades. (s/f). Innoveduca.com. Recuperado el 17 de mayo de 2022, de* *http://www.innoveduca.com/files/propis/mates_unidadmedida/24_conversin_de_unidades.htm*
+ * _Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson.
  
- *_Voltaje. (s/f). Energyeducation.ca. Recuperado el 17 de mayo de 2022, de https://energyeducation.ca/Enciclopedia_de_Energia/index.php/Voltaje*
+ * _Conversión de unidades. (s/f). Innoveduca.com. Recuperado el 10 de noviembre de 2022, de http://www.innoveduca.com/files/propis/mates_unidadmedida/24_conversin_de_unidades.htm
  
- *_La estructura atómica nuclear. (2013, octubre 9). Foro Nuclear. https://www.foronuclear.org/descubre-la-energia-nuclear/preguntas-y-respuestas/sobre-energia-nuclear/la-estructura-atomica-nuclear/*
+ * _Voltaje. (s/f). Energyeducation.ca. Recuperado el 10 de noviembre de 2022, de https://energyeducation.ca/Enciclopedia_de_Energia/index.php/Voltaje
  
- *_La carga eléctrica. (s/f). Xunta.gal. Recuperado el 17 de mayo de 2022, de https://www.edu.xunta.gal/espazoAbalar/sites/espazoAbalar/files/datos/1464947843/contido/11_la_carga_elctrica.html*
+ * _La estructura atómica nuclear. (2013, octubre 9). Foro Nuclear. https://www.foronuclear.org/descubre-la-energia-nuclear/preguntas-y-respuestas/sobre-energia-nuclear/la-estructura-atomica-nuclear/
+ 
+ * _La carga eléctrica. (s/f). Xunta.gal. Recuperado el 10 de noviembre de 2022, de https://www.edu.xunta.gal/espazoAbalar/sites/espazoAbalar/files/datos/1464947843/contido/11_la_carga_elctrica.html
 
- *_Resistencias variables. (s/f). Ieslosalbares.es. Recuperado el 17 de mayo de 2022, de http://www.ieslosalbares.es/tecnologia/Electronica4eso/resistencias_variables.html*
+ * _Resistencias variables. (s/f). Ieslosalbares.es. Recuperado el 10 de noviembre de 2022, de http://www.ieslosalbares.es/tecnologia/Electronica4eso/resistencias_variables.html
