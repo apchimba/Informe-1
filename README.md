@@ -16,6 +16,17 @@
 ## 2. MARCO TEÓRICO
 
 ![notacion-cientifica](https://user-images.githubusercontent.com/116811469/201257182-7a0e0a82-2c36-48a8-90b3-c68abb0c3b1a.png)
+![notacion-ingenieria](https://user-images.githubusercontent.com/116811469/201275273-e65a4116-5d81-48c4-b0ec-11c74a77bf5a.png)
+![estructura-atomica](https://user-images.githubusercontent.com/116811469/201275319-0ce69ca4-835a-49d4-9b60-f8968e01ae0b.png)
+![categoria-materiales](https://user-images.githubusercontent.com/116811469/201275477-925a028c-15f8-4057-a0d7-15eb21d36183.png)
+![carga-electrica](https://user-images.githubusercontent.com/116811469/201275487-862fcb66-d7b3-42da-b74a-0d581bd94a45.png)
+![voltaje-corriente-resistencia-conductancia](https://user-images.githubusercontent.com/116811469/201275496-7fd12e4e-6f66-4dfb-82c4-fef002acc778.png)
+![fuentes-voltaje-corriente](https://user-images.githubusercontent.com/116811469/201275519-3416c073-03e2-4ceb-82c7-12ce39f5dde3.png)
+![resistores](https://user-images.githubusercontent.com/116811469/201275630-3e720acd-b8f9-4aba-845e-c1064096291d.png)
+![tipos-resistores](https://user-images.githubusercontent.com/116811469/201275647-46917724-7fb2-41b5-bddd-63e6218e8902.png)
+![circuito-electrico](https://user-images.githubusercontent.com/116811469/201275729-40fba864-c2b8-485d-8015-06d2e20421e5.png)
+![proteccion-corriente-circuitos](https://user-images.githubusercontent.com/116811469/201275746-c5b9940b-ff04-4c56-8841-0bb181e852b1.png)
+
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -270,30 +281,30 @@
  
 ### 32) Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva
  
- ![](https://github.com/smvaca2/Informe-1/blob/4218c3326d80630b3a9388f131492d0a152276db/ej6.PNG)
+ ![32](https://user-images.githubusercontent.com/116811469/201274052-106bbd21-de5f-4ef2-bab3-45619c7610a6.png)
  
 ### 34) ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
  
- ![](https://github.com/smvaca2/Informe-1/blob/b2a97979858931ccf666df0ff7a266516f27aadf/ej1.PNG)
+ ![34](https://user-images.githubusercontent.com/116811469/201274101-5189e89f-e184-4afa-a926-61062bce8af6.png)
  
  * Respuesta = A través de R<sub>5
  
  
 ### 36) Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador 
  
- ![](https://github.com/smvaca2/Informe-1/blob/d9df32aefe02e1d35811c3e621719f08418c2112/ej3.PNG)
- 
+ ![36](https://user-images.githubusercontent.com/116811469/201274161-9b18f0ee-60d0-44d4-aca0-9daaefe77d59.png)
+
 #### ---------- Seccion 2-7 Medicion de Circuito Basico ----------
  
 ### 38) Explique cómo mediría la resistencia de R2 en la figura 2-72
  
- ![](https://github.com/smvaca2/Informe-1/blob/57d7dc733c9e7e11b12f80881a74310c9a1bcede/ej2.PNG)
+ ![38](https://user-images.githubusercontent.com/116811469/201274219-c8c9c242-a3f9-4fdf-b173-1903988ab82e.png)
  
  Uniendo las 2 resistencias dado que están en serie y utilizando la formula para calcular una resistencia en serie
  
 ### 40) En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor
  
- ![](https://github.com/smvaca2/Informe-1/blob/4218c3326d80630b3a9388f131492d0a152276db/ej5.PNG)
+ ![40](https://user-images.githubusercontent.com/116811469/201274264-acece20c-b2a6-4976-b317-e78a92470505.png)
  
  Conectando el cable rojo del amperímetro a V<sub>S</sub> y conectando el cable negro a VI
  
@@ -303,7 +314,7 @@
  
 ### 44) ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
  
- ![](https://github.com/smvaca2/Informe-1/blob/74de6b66786b62d4691af2d849d50c929e04d930/ej4.PNG)
+ ![44](https://user-images.githubusercontent.com/116811469/201274310-cdf58ae4-fb04-40af-93bd-9dd0076151df.png)
  
  * Respuesta 10kΩ
  
