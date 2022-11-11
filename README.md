@@ -16,13 +16,24 @@
 ## 2. MARCO TEÓRICO
 
 ![notacion-cientifica](https://user-images.githubusercontent.com/116811469/201257182-7a0e0a82-2c36-48a8-90b3-c68abb0c3b1a.png)
+
+* La notación de ingeniería es similar a la notación científica común, su diferencia está en que el exponente siempre será un multiplo de 3 y en esta notación puede haber hasta 3 decimales.
+
 ![notacion-ingenieria](https://user-images.githubusercontent.com/116811469/201275273-e65a4116-5d81-48c4-b0ec-11c74a77bf5a.png)
+
+* La notación de ingeniería y los prefijos métricos son de gran importancia al momento de realizar conversiones de unidades métricas, ya que para realizar el cambio de un prefijo a otro necesitaremos conocer tanto su simbología como su valor.
+
 ![estructura-atomica](https://user-images.githubusercontent.com/116811469/201275319-0ce69ca4-835a-49d4-9b60-f8968e01ae0b.png)
 ![categoria-materiales](https://user-images.githubusercontent.com/116811469/201275477-925a028c-15f8-4057-a0d7-15eb21d36183.png)
 ![carga-electrica](https://user-images.githubusercontent.com/116811469/201275487-862fcb66-d7b3-42da-b74a-0d581bd94a45.png)
 ![voltaje-corriente-resistencia-conductancia](https://user-images.githubusercontent.com/116811469/201275496-7fd12e4e-6f66-4dfb-82c4-fef002acc778.png)
 ![fuentes-voltaje-corriente](https://user-images.githubusercontent.com/116811469/201275519-3416c073-03e2-4ceb-82c7-12ce39f5dde3.png)
 ![resistores](https://user-images.githubusercontent.com/116811469/201275630-3e720acd-b8f9-4aba-845e-c1064096291d.png)
+
+### Resistores variables
+
+* Como su nombre lo indica son resistencias que pueden cambiar el valor de su resistencia. Estos resistores sirven para dividir la voltaje y para controlar corriente
+
 ![tipos-resistores](https://user-images.githubusercontent.com/116811469/201275647-46917724-7fb2-41b5-bddd-63e6218e8902.png)
 ![circuito-electrico](https://user-images.githubusercontent.com/116811469/201275729-40fba864-c2b8-485d-8015-06d2e20421e5.png)
 ![proteccion-corriente-circuitos](https://user-images.githubusercontent.com/116811469/201275746-c5b9940b-ff04-4c56-8841-0bb181e852b1.png)
@@ -327,10 +338,9 @@
  
 ## 5. CONCLUSIONES
  
-En el trabajo de este informe para la tarea 1 se comprendió de una manera práctica el uso de la notación científica y notación de ingeniería para realizar problemas o para usarlos al momento de utilizar los prefijos métricos para el desarrollo de conversiones de unidades métricas. 
-Además se repasó los conceptos como los de la estructura atómica, los electrónes y cómo con estos podemos calcular las cargas. También se resolvió calculos con el voltaje, corriente y las resistencias. En este último punto se aprendió de igual manera a reconocer el valor de las resistenicas y los tipos de resistencias y de circuitos electrónicos que existen. 
- En este informe se identificó los dispositivos de protección electrónica y sus usos, el funcionamiento de interruptores, cortacircuitos y fusibles. 
- Con los resultados de este informe se pueden sentar buenas bases para continuar con la materia de fundamentos de circuitos eléctricos, puesto que se han analizado y estudiado las bases de esta materia en esta tarea. 
+* Mediante el proceso de realizacion del informe 1 acerca del capitulo 1 y 2 del libro de PRINCIPIOS DE CIRCUITOS ELECTRICOS adquirimos conocimientos acerca de temas tales como: notacion cientifica, notacion de ingenieria, estructura atomica, carga electrica, voltaje, corriente, resistencia, fuentes de voltaje, resistores, tipos de circuitos electricos, entre otros... , que nos seran de gran utilidad a lo largo del desarrollo de futuras actividades academicas ademas de ser necesario y fundamentales para continuar con el estudio dentro de futuros semestres o a lo largo del desarrollo como profeccional.
+* Los conceptos estudiados en las dos unidades seran la base que nos permita comprender de la mejor manera posible futuros temas que se encuentren a lo largo del estudio de la unidad ademas de ser cruciales para el desarrollo de laboratorios con instrumentos reales.
+
  
 ## 6. BIBLIOGRAFÍA
  
